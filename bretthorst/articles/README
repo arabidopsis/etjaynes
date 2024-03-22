@@ -1,0 +1,58 @@
+
+This directory contains the compressed postscript for the
+articles by Larry Bretthorst.
+
+--File Name--           -------------Article Name----------------
+closely.ps.gs           Bayesian Analysis of Signals from
+                        Closely Spaced Objects
+
+deconvolution.ps.gz     Bayesian Interpolation And Deconvolution
+
+excerpts.ps.gz          Excerpts From Bayesian Spectrum Analysis
+                        and Parameter Estimation
+
+me91.ps.gz              Estimating The Ratio Of Two Amplitudes 
+                        In Nuclear Magnetic Resonance Data
+
+valencia.ps.gz          Amplitude Estimation In Nuclear Magnetic 
+                        Resonance Data
+
+i.ps.gz                 Bayesian Analysis I: Parameter Estimation 
+                        Using Quadrature NMR Models
+
+ii.ps.gz                Bayesian Analysis II: Signal Detection 
+                        and Model Selection
+
+iii.ps.gz               Bayesian Analysis III: Applications to NMR 
+                        Signal Detection, Model Selection and 
+                        Parameter Estimation
+
+fast.ps.gz              Bayesian Analysis IV: Noise And Computing 
+                        Time Considerations
+
+one.ps.gz               Bayesian Analysis V: Amplitude Estimation, 
+                        Multiple Well Separated Sinusoids
+
+diff.ps.gz              On The Difference In Means
+
+me90.ps.gz              Moment Estimation Using Bayesian 
+                        Probability Theory
+
+intro.ps.gz             An Introduction To Parameter Estimation
+                        Using Bayesian Probability Theory
+
+model.ps.gz             An Introduction To Model Selection 
+                        Using Probability Theory As Logic
+
+
+All questions and comments should be directed to
+
+Larry Bretthorst 
+Dept. of Chemistry
+Washington University
+St. Louis Mo., 64130
+
+Email: larry@bayes.wustl.edu
+       larry@wuchem.wustl.edu
+Phone: 314-362-9994 (work)
+       
