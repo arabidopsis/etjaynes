@@ -1,5 +1,3 @@
-E.T. Jaynes body { max-width: 50vw; margin: 1em; margin-left: 25vw; border: solid #eeeeee 1px; padding: 1em; }
-
 # Probability Theory: The Logic of Science
 
 1.  [**Preface**](jaynes/cpreambl-index-preface.pdf). Title/Index/Preface
@@ -8,13 +6,32 @@ E.T. Jaynes body { max-width: 50vw; margin: 1em; margin-left: 25vw; border: soli
 
 1.  [**Plausible Reasoning**](jaynes/cc01p-plausible-reasoning.pdf). Propositional Logic and Boolean Algebra.
 2.  [**The Quantitative Rules**](jaynes/cc02m-the-quantitative-rules.pdf). Cox's Rules.
-3.  [**Elementary Sampling Theory**](jaynes/cc03o-elementary-sampling-theory.pdf). Sampling Distributions make predictions, \[...\], about potential observations. [Figure 3.1](jaynes/cfig3-1.pdf)
-4.  [**Elementary Hypothesis Testing**](jaynes/cc04q-elementary-hypothesis-testing.pdf). [Figure 4.1](jaynes/cfig4-1.pdf)
+3.  [**Elementary Sampling Theory**](jaynes/cc03o-elementary-sampling-theory.pdf). Sampling Distributions make predictions, \[...\], about potential observations.
+
+    [Figure 3.1](jaynes/cfig3-1.pdf):
+
+    The Hypergeometric Distribution for N = 15, 30, 100, ∞
+
+4.  [**Elementary Hypothesis Testing**](jaynes/cc04q-elementary-hypothesis-testing.pdf).
+
+    [Figure 4.1](jaynes/cfig4-1.pdf):
+
+    A Surprising Multiple Sequential Test Wherein a Dead Hypothesis (C) is Resurrected.
+
 5.  [**Queer Uses For Probability Theory**](jaynes/cc05e-queer-uses-for-probability-theory.pdf).
 
     > Kahneman & Tversky claimed that we are not Bayesians, because in psychological tests people often commint violations of Bayesian principles. However, this claim is seen differently in vliew of what we have just noted. We suggest that people are reasoning according to a more sophisticated version of Bayesian inference than they had in mind.
 
-6.  [**Elementary Parameter Estimation**](jaynes/cc06q-elmentary-parameter-estimation.pdf). Pulling balls from Urns... See also [here](jaynes/articles/cmonkeys.pdf). [Figure 6.1](jaynes/cfig6-1.pdf), [Figure 6.2](jaynes/cfig6-2.pdf)
+6.  [**Elementary Parameter Estimation**](jaynes/cc06q-elmentary-parameter-estimation.pdf). Pulling balls from Urns... See also [here](jaynes/articles/cmonkeys.pdf).
+
+    [Figure 6.1](jaynes/cfig6-1.pdf):
+
+    The Causal Influences.
+
+    [Figure 6.2](jaynes/cfig6-2.pdf):
+
+    The Strucutre of Mr A's Problem....
+
 7.  [**The Central Gaussian, Or Normal, Distribution**](jaynes/cc07s-the-central-gaussian-or-normal-distribution.pdf). Galton's regression to the mean discovery and other things Gaussian.
 8.  [**Sufficiency, Ancillarity, And All That**](jaynes/cc08n-sufficiency-ancillarity-and-all-that.pdf). Also Combining Evidence from Different Sources (meta-analysis).
 9.  [**Repetitive Experiments — Probability and Frequency**](jaynes/cc09i-repeditive-experiments-probability-and-frequency.pdf).
@@ -24,7 +41,12 @@ E.T. Jaynes body { max-width: 50vw; margin: 1em; margin-left: 25vw; border: soli
 13. [**Decision Theory — Historical Background**](jaynes/cc13v-decision-theory-historical-background.pdf). The Rationale of Insurance.
 14. [**Simple Applications of Decision Theory**](jaynes/cc14g-simple-applications-of-decision-theory.pdf).
 15. [**Paradoxes of Probability Theory**](jaynes/cc15b-paradoxes-of-probability-theory.pdf). Nonconglomerability. The Borel-Kolmogorov Paradox.
-16. [**Orthodox Methods: Historical Background**](jaynes/cc16v-orthodox-methods-historical-background.pdf). [Figure 15.1](jaynes/cfig15-1.pdf)
+16. [**Orthodox Methods: Historical Background**](jaynes/cc16v-orthodox-methods-historical-background.pdf).
+
+    [Figure 15.1](jaynes/cfig15-1.pdf):
+
+    Solution to the "Strong Inconsistency" Problem for n=100 Tosses.
+
 17. [**Principle and Pathology of Orthodox Statistics**](jaynes/cc17h-principles-and-pathologies-of-orthodox-statistics.pdf). Unbiased Estimators.
 18. [**The Ap Distribution and Rule of Succession**](jaynes/cc18i-the-Ap-distribution-and-rule-of-succession.pdf). Outer and Inner Robots.
 19. [**Physical Measurments**](jaynes/cc19g-physical-measurements.pdf).
